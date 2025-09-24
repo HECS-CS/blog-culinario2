@@ -1,0 +1,67 @@
+/* Estilos base */
+*{
+    margin: 0px;
+}
+header, nav{
+    width: 100vw;
+    height: 15vh;
+    background: rgb(255, 216, 62);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+section{
+    width: 24vw;
+    height: 10vh;
+    display: flex;
+    background: rgb(143, 225, 49);
+    justify-content: center;
+    align-items: center;
+}
+.imgp{
+    width: 99vw;
+    height: 70vh;
+}
+.lis{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+footer{
+    width: 100vw;
+    height: 15vh;
+    background: rgb(255, 216, 62);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+main{
+    width: 100vw;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.imgPpT{
+    width: 33vw;
+    height: 69vh;
+}
+.sec2{
+    width: 33vw;
+    height: 69vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.sec3{
+    width: 33vw;
+    height: 69vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
